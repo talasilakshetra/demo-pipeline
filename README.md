@@ -1,1 +1,1 @@
-this is just fir demo pipeline
+demonstrate ci/cd using jenkins
